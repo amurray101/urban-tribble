@@ -3,12 +3,14 @@
 .title {
  align-content: center;
  background-color: white;  
+ color: blue;
  font-family: Georgia;
  font-size: 50px;
  
 }
 
 .text {
- font-family: Times New Roman;
+ font-family: Georgia;
  font-size: 25px;
+ color: red;
 }
