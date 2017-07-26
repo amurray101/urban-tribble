@@ -1,7 +1,14 @@
 /*CSS for Introduction HTML file */
 
-body {
+.title {
+ align-content: center;
  background-color: white;  
  font-family: Georgia;
  font-size: 150px;
+ 
+}
+
+.text {
+ font-family: Times New Roman;
+ font-size: 90px;
 }
