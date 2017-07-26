@@ -10,7 +10,8 @@
 }
 
 .text {
+ background-color: white;
+ color: red;
  font-family: Georgia;
  font-size: 25px;
- color: red;
 }
