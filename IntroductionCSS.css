@@ -1,17 +1,18 @@
 /*CSS for Introduction HTML file */
 
 .title {
- align-content: center;
- background-color: white;  
+ text-align: center;
  color: blue;
+ display: block;
  font-family: Georgia;
  font-size: 50px;
  
 }
 
 .text, .instructions {
- background-color: white;
+ text-align: center;
  color: red;
+ display: block;
  font-family: Georgia;
  font-size: 25px;
 }
