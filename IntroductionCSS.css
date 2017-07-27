@@ -11,7 +11,7 @@
 
 .text, .instructions {
  text-align: center;
- color: red;
+ color: green;
  display: block;
  font-family: Georgia;
  font-size: 25px;
