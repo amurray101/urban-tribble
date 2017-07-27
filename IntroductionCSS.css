@@ -7,7 +7,7 @@
  font-family: Georgia;
  font-size: 50px;
  word-wrap: break-word;
- width: 100px;
+ width: 500px;
 }
 
 .text, .instructions {
@@ -17,7 +17,7 @@
  font-family: Georgia;
  font-size: 25px;
  word-wrap: break-word;
- width: 100px;
+ width: 500px;
 }
 
 .child {
@@ -26,5 +26,5 @@
  font-family: Helvetica;
  font-size: 20px;
  word-wrap: break-word;
- width: 100px;
+ width: 500px;
 }
