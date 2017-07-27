@@ -16,3 +16,10 @@
  font-family: Georgia;
  font-size: 25px;
 }
+
+.child {
+ text-align: center;
+ color: black;
+ font-family: Times New Roman;
+ font-size: 12px;
+}
